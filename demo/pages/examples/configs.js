@@ -112,6 +112,7 @@ export default {
       className: 'center',
       centerMode: true,
       infinite: true,
+      focusOnSelect: true,
       centerPadding: '60px',
       slidesToShow: 3,
       speed: 500,
